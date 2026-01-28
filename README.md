@@ -5,7 +5,7 @@ code.
 
 <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jokasan&theme=default" />
 
-Most of the projects on here are written in R, Python or Javascript.
+Most of the projects on here are written in R, Python or Javascript. And include a variety of data visualisaiton, modelling and other random projects.
 
 <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jokasan&theme=transparent" />
 
