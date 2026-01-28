@@ -1,7 +1,7 @@
 ### Yo ✌🏼
 
-I am a data scientist at Danone, I build systems and data products to inform stakeholder decision making. My peers call me the curious homosapien, I am passionate about data science and food policy. Y[...]
-code. 
+I am a data scientist at Danone, I build systems and data products to inform stakeholder decision making. My peers call me the curious homosapien, I am passionate about data science and food policy. You can find me 
+browsing the politics section at my local library or at a cafe debugging code.
 
 <div align="center">
   <img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jokasan&theme=algolia" />
