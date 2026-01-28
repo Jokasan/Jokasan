@@ -4,14 +4,13 @@ I am a data scientist at Danone, I build systems and data products to inform sta
 browsing the politics section at my local library or at a cafe debugging code.
 
 <div align="center">
-  <img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jokasan&theme=algolia" />
   <img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jokasan&theme=algolia" />
 </div>
 
 Most of the projects on here are written in R, Python or Javascript. And include a variety of data visualisaiton, modelling and other random projects.
 
 <div align="center">
-  <img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jokasan&theme=algolia" />
+  <img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jokasan&theme=algolia" />
   <img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jokasan&theme=algolia" />
 </div>
 
