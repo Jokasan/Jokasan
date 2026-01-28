@@ -1,6 +1,6 @@
 ### Yo ✌🏼
 
-I am a data scientist at Danone, I build systems and data products to inform stakeholder decision making. My peers call me the curious homosapien, I am passionate about data science and food policy. You can find me 
+My name is Nils Indreiten, I am a data scientist at Danone, I build systems and data products to inform stakeholder decision making. My peers call me the curious homosapien, I am passionate about data science and food policy. You can find me 
 browsing the politics section at my local library or at a cafe debugging code.
 
 <div align="center">
