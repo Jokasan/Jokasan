@@ -14,4 +14,4 @@ Most of the projects on here are written in R, Python or Javascript. They includ
   <img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jokasan&theme=algolia" />
 </div>
 
-If you want to find out more, you can check out [my website](https://portfolio-js-coral.vercel.app/). You can also connect with me on [LinkedIn](https://www.linkedin.com/in/nils-indreiten-12991351/).
+Check out [my website](https://portfolio-js-coral.vercel.app/), to learn more! You can also connect with me on [LinkedIn](https://www.linkedin.com/in/nils-indreiten-12991351/).
